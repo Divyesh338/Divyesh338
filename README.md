@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyesh338&theme=radical" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyesh338&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
