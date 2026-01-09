@@ -61,9 +61,9 @@
 ---
 
 ### ✨ Featured Projects
-- 🔗 [E-Commerce Website](https://github.com/your-github-Divyesh338/ecommerce) – Built with HTML, CSS, JavaScript, and PHP  
-- 🔗 [Angular CRUD Demo](https://github.com/your-github-Divyesh338/angular-crud) – Angular 15 project with Auth, Guards, and Lazy Loading  
-- 🔗 [Node.js Token Generator](https://github.com/your-github-Divyesh338/token-generator) – API authentication system using JWT  
+- 🔗 [E-Commerce Website]([https://github.com/your-github-Divyesh338/ecommerce](https://divyesh338.github.io/E-commerce_web_Client_Panel/#/)) – A modern, user-friendly e-commerce client panel built using HTML, CSS, and TypeScript, featuring a clean UI and smooth user interactions.
+- 🔗 [E-Commerce Admin Panel]([https://github.com/your-github-Divyesh338/angular-crud](https://shopadminpanel.vercel.app/login)) – A robust Angular 15–based admin dashboard designed for managing an e-commerce platform. Includes product & category management, order handling, user management, authentication, route guards, lazy loading, and a fully responsive UI.
+- 🔗 [Redesign-Logins]([https://designedloginpages.vercel.app/]) - A curated collection of modern and redesigned login pages focused on improving user experience, accessibility, and visual appeal for web applications. 
 
 ---
 
