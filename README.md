@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-- 🌱 Currently learning **Backend Development, Angular 15, and Node.js**
+- 🌱 Currently learning **Backend Development, Angular 15.**
 - 💻 Actively solving problems on GeeksforGeeks & LeetCode to strengthen **DSA & problem-solving skills**
 - 🎯 Goal: To become a **full-stack developer**
 - 📫 Reach me at **Vagheladivyesh482@gmail.com**
