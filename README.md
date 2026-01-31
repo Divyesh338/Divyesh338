@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divyesh Vaghela</h1>
-<h3 align="center">Aspiring Backend Developer | Angular & Node.js Enthusiast | Competitive Programmer</h3>
+<h3 align="center">Aspiring Full Stack Developer | Angular & Node.js Enthusiast | Competitive Programmer</h3>
 
 ---
 
