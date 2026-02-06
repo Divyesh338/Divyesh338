@@ -11,6 +11,12 @@
 
 ---
 
+### 📄 Resume
+- 🔗 **[View My Resume (Live)](https://divyesh338.github.io/Divyesh_Vaghela_Resume_V1/)**  
+  A clean, responsive, single-page resume built with HTML & CSS and hosted on GitHub Pages. Includes an A4-optimized PDF download option.
+
+---
+
 ### 🌐 Connect with Me
 <p align="left">
 <a href="https://auth.geeksforgeeks.org/user/vagheladivyesh482/" target="_blank">
@@ -25,6 +31,9 @@
 <a href="https://github.com/Divyesh338/" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<a href="https://divyesh338.github.io/Divyesh_Vaghela_Resume_V1/" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-View%20Online-38BDF8?style=for-the-badge&logo=readme&logoColor=white" />
+</a> 
 </p>
 
 ---
